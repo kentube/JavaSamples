@@ -1,0 +1,816 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="99e99a5e-2aec-4167-8327-4f94b995342f" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/bin/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ErrorTreeViewConfiguration">
+    <option name="autoscrollToSource" value="true" />
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="Chap01Q07_MatrixZero.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/crack/tech/datastructures/Chap01Q07_MatrixZero.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="7" column="14" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Question.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Chapter 20/Question20_12/Question.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="18" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Chapter 1/Question1_7/Question.java" />
+        <option value="$PROJECT_DIR$/Chapter 4/Question4_3/Question.java" />
+        <option value="$PROJECT_DIR$/Chapter 9/Question9_2/Question.java" />
+        <option value="$PROJECT_DIR$/Chapter 20/Question20_11/Question20_10.java" />
+        <option value="$PROJECT_DIR$/Chapter 2/Question2_5/Question.java" />
+        <option value="$PROJECT_DIR$/Chapter 2/Question2_2/Question.java" />
+        <option value="$PROJECT_DIR$/Chapter 4/Question4_8/Question.java" />
+        <option value="$PROJECT_DIR$/Chapter 3/Question3_2/Question.java" />
+        <option value="$PROJECT_DIR$/Chapter 1/Question1_6/Question.java" />
+        <option value="$PROJECT_DIR$/Chapter 9/Question9_6/Question9_6.java" />
+        <option value="$PROJECT_DIR$/Chapter 5/Question5_1/Question.java" />
+        <option value="$PROJECT_DIR$/Chapter 20/Question20_5/Question.java" />
+        <option value="$PROJECT_DIR$/Chapter 9/Question9_1/Question.java" />
+        <option value="$PROJECT_DIR$/Chapter 4/Question4_5/Question.java" />
+        <option value="$PROJECT_DIR$/Chapter 5/Question5_6/Question.java" />
+        <option value="$PROJECT_DIR$/Chapter 19/Question19_8/Question.java" />
+        <option value="$PROJECT_DIR$/Chapter 4/Question4_7/Question.java" />
+        <option value="$PROJECT_DIR$/Chapter 2/Question2_4/Question.java" />
+        <option value="$PROJECT_DIR$/Chapter 8/Question8_2/Question.java" />
+        <option value="$PROJECT_DIR$/Chapter 19/Question19_2/Question.java" />
+        <option value="$PROJECT_DIR$/Chapter 4/Question4_1/Question.java" />
+        <option value="$PROJECT_DIR$/Chapter 1/Question1_5/Question.java" />
+        <option value="$PROJECT_DIR$/Chapter 5/Question5_5/Question.java" />
+        <option value="$PROJECT_DIR$/Chapter 4/Question4_6/Question.java" />
+        <option value="$PROJECT_DIR$/Chapter 2/Question2_3/Question.java" />
+        <option value="$PROJECT_DIR$/Chapter 20/Question20_3/Question.java" />
+        <option value="$PROJECT_DIR$/Chapter 19/Question19_6/Question.java" />
+        <option value="$PROJECT_DIR$/Chapter 11/Question11_4/Question.java" />
+        <option value="$PROJECT_DIR$/Chapter 20/Question20_2/Question.java" />
+        <option value="$PROJECT_DIR$/Chapter 5/Question5_3/Question.java" />
+        <option value="$PROJECT_DIR$/Chapter 4/Question4_4/Question.java" />
+        <option value="$PROJECT_DIR$/Chapter 2/Question2_1/Question.java" />
+        <option value="$PROJECT_DIR$/Chapter 3/Question3_5/Question.java" />
+        <option value="$PROJECT_DIR$/Chapter 20/Question20_12/Question.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="width" value="524" />
+    <option name="height" value="738" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Tech" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Tech" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Tech" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Tech" type="462c0819:PsiDirectoryNode" />
+              <item name="Chapter 1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Tech" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Tech" type="462c0819:PsiDirectoryNode" />
+              <item name="Chapter 1" type="462c0819:PsiDirectoryNode" />
+              <item name="Question1_5" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Tech" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Tech" type="462c0819:PsiDirectoryNode" />
+              <item name="Chapter 1" type="462c0819:PsiDirectoryNode" />
+              <item name="Question1_6" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Tech" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Tech" type="462c0819:PsiDirectoryNode" />
+              <item name="Chapter 1" type="462c0819:PsiDirectoryNode" />
+              <item name="Question1_7" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Tech" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Tech" type="462c0819:PsiDirectoryNode" />
+              <item name="Chapter 2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Tech" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Tech" type="462c0819:PsiDirectoryNode" />
+              <item name="Chapter 2" type="462c0819:PsiDirectoryNode" />
+              <item name="Question2_1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Tech" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Tech" type="462c0819:PsiDirectoryNode" />
+              <item name="Chapter 2" type="462c0819:PsiDirectoryNode" />
+              <item name="Question2_3" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Tech" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Tech" type="462c0819:PsiDirectoryNode" />
+              <item name="Chapter 2" type="462c0819:PsiDirectoryNode" />
+              <item name="Question2_4" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Tech" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Tech" type="462c0819:PsiDirectoryNode" />
+              <item name="Chapter 2" type="462c0819:PsiDirectoryNode" />
+              <item name="Question2_5" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Tech" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Tech" type="462c0819:PsiDirectoryNode" />
+              <item name="Chapter 3" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Tech" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Tech" type="462c0819:PsiDirectoryNode" />
+              <item name="Chapter 3" type="462c0819:PsiDirectoryNode" />
+              <item name="Question3_2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Tech" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Tech" type="462c0819:PsiDirectoryNode" />
+              <item name="Chapter 3" type="462c0819:PsiDirectoryNode" />
+              <item name="Question3_5" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Tech" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Tech" type="462c0819:PsiDirectoryNode" />
+              <item name="Chapter 4" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Tech" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Tech" type="462c0819:PsiDirectoryNode" />
+              <item name="Chapter 4" type="462c0819:PsiDirectoryNode" />
+              <item name="Question4_1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Tech" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Tech" type="462c0819:PsiDirectoryNode" />
+              <item name="Chapter 4" type="462c0819:PsiDirectoryNode" />
+              <item name="Question4_4" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Tech" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Tech" type="462c0819:PsiDirectoryNode" />
+              <item name="Chapter 4" type="462c0819:PsiDirectoryNode" />
+              <item name="Question4_5" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Tech" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Tech" type="462c0819:PsiDirectoryNode" />
+              <item name="Chapter 4" type="462c0819:PsiDirectoryNode" />
+              <item name="Question4_6" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Tech" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Tech" type="462c0819:PsiDirectoryNode" />
+              <item name="Chapter 4" type="462c0819:PsiDirectoryNode" />
+              <item name="Question4_7" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Tech" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Tech" type="462c0819:PsiDirectoryNode" />
+              <item name="Chapter 4" type="462c0819:PsiDirectoryNode" />
+              <item name="Question4_8" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Tech" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Tech" type="462c0819:PsiDirectoryNode" />
+              <item name="Chapter 5" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Tech" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Tech" type="462c0819:PsiDirectoryNode" />
+              <item name="Chapter 5" type="462c0819:PsiDirectoryNode" />
+              <item name="Question5_1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Tech" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Tech" type="462c0819:PsiDirectoryNode" />
+              <item name="Chapter 5" type="462c0819:PsiDirectoryNode" />
+              <item name="Question5_3" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Tech" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Tech" type="462c0819:PsiDirectoryNode" />
+              <item name="Chapter 5" type="462c0819:PsiDirectoryNode" />
+              <item name="Question5_5" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Tech" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Tech" type="462c0819:PsiDirectoryNode" />
+              <item name="Chapter 5" type="462c0819:PsiDirectoryNode" />
+              <item name="Question5_6" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Tech" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Tech" type="462c0819:PsiDirectoryNode" />
+              <item name="Chapter 8" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Tech" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Tech" type="462c0819:PsiDirectoryNode" />
+              <item name="Chapter 8" type="462c0819:PsiDirectoryNode" />
+              <item name="Question8_2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Tech" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Tech" type="462c0819:PsiDirectoryNode" />
+              <item name="Chapter 9" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Tech" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Tech" type="462c0819:PsiDirectoryNode" />
+              <item name="Chapter 9" type="462c0819:PsiDirectoryNode" />
+              <item name="Question9_1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Tech" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Tech" type="462c0819:PsiDirectoryNode" />
+              <item name="Chapter 9" type="462c0819:PsiDirectoryNode" />
+              <item name="Question9_2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Tech" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Tech" type="462c0819:PsiDirectoryNode" />
+              <item name="Chapter 9" type="462c0819:PsiDirectoryNode" />
+              <item name="Question9_6" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Tech" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Tech" type="462c0819:PsiDirectoryNode" />
+              <item name="Chapter 11" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Tech" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Tech" type="462c0819:PsiDirectoryNode" />
+              <item name="Chapter 11" type="462c0819:PsiDirectoryNode" />
+              <item name="Question11_4" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Tech" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Tech" type="462c0819:PsiDirectoryNode" />
+              <item name="Chapter 19" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Tech" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Tech" type="462c0819:PsiDirectoryNode" />
+              <item name="Chapter 19" type="462c0819:PsiDirectoryNode" />
+              <item name="Question19_2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Tech" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Tech" type="462c0819:PsiDirectoryNode" />
+              <item name="Chapter 19" type="462c0819:PsiDirectoryNode" />
+              <item name="Question19_6" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Tech" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Tech" type="462c0819:PsiDirectoryNode" />
+              <item name="Chapter 19" type="462c0819:PsiDirectoryNode" />
+              <item name="Question19_8" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Tech" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Tech" type="462c0819:PsiDirectoryNode" />
+              <item name="Chapter 20" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Tech" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Tech" type="462c0819:PsiDirectoryNode" />
+              <item name="Chapter 20" type="462c0819:PsiDirectoryNode" />
+              <item name="Question20_2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Tech" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Tech" type="462c0819:PsiDirectoryNode" />
+              <item name="Chapter 20" type="462c0819:PsiDirectoryNode" />
+              <item name="Question20_3" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Tech" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Tech" type="462c0819:PsiDirectoryNode" />
+              <item name="Chapter 20" type="462c0819:PsiDirectoryNode" />
+              <item name="Question20_5" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Tech" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Tech" type="462c0819:PsiDirectoryNode" />
+              <item name="Chapter 20" type="462c0819:PsiDirectoryNode" />
+              <item name="Question20_11" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Tech" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Tech" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Tech" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Tech" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="datastructures" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Tech" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="project.propCompiler" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Chap01Q07_MatrixZero" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="crack.tech.datastructures.Chap01Q07_MatrixZero" />
+      <module name="Java Technical Samples" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="crack.tech.datastructures.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Chap01Q07_MatrixZero" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="99e99a5e-2aec-4167-8327-4f94b995342f" name="Default" comment="" />
+      <created>1532803613372</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1532803613372</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info active="true" anchor="bottom" id="Messages" visible="true" weight="0.3286385" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info id="Image Layers" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="right" id="Maven Projects" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info id="Capture Tool" />
+      <window_info id="Designer" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24963397" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="UI Designer" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Chapter 1/Question1_7/Question.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="11" selection-start-line="2" selection-start-column="11" selection-end-line="2" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter 4/Question4_3/Question.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="8" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter 9/Question9_2/Question.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="11" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter 2/Question2_5/Question.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="127">
+          <caret line="8" column="8" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter 20/Question20_11/Question20_10.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="61" column="25" selection-start-line="61" selection-start-column="25" selection-end-line="61" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter 2/Question2_2/Question.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="43" selection-start-line="6" selection-start-column="43" selection-end-line="6" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter 4/Question4_8/Question.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="11" selection-start-line="3" selection-start-column="11" selection-end-line="3" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter 3/Question3_2/Question.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="11" selection-start-line="2" selection-start-column="11" selection-end-line="2" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter 1/Question1_6/Question.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="11" selection-start-line="2" selection-start-column="11" selection-end-line="2" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter 9/Question9_6/Question9_6.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="11" selection-start-line="1" selection-start-column="11" selection-end-line="1" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter 5/Question5_1/Question.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="11" selection-start-line="2" selection-start-column="11" selection-end-line="2" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter 20/Question20_5/Question.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="11" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter 9/Question9_1/Question.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="11" selection-start-line="2" selection-start-column="11" selection-end-line="2" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter 4/Question4_1/Question.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="21" lean-forward="true" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter 19/Question19_2/Question.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="4" lean-forward="true" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter 8/Question8_2/Question.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="11" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter 2/Question2_4/Question.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="11" selection-start-line="3" selection-start-column="11" selection-end-line="3" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter 4/Question4_7/Question.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="11" selection-start-line="5" selection-start-column="11" selection-end-line="5" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter 19/Question19_8/Question.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="11" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter 5/Question5_6/Question.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="11" selection-start-line="2" selection-start-column="11" selection-end-line="2" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter 4/Question4_5/Question.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="11" selection-start-line="2" selection-start-column="11" selection-end-line="2" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter 2/Question2_3/Question.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="18" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter 4/Question4_6/Question.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="18" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter 5/Question5_5/Question.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="11" selection-start-line="2" selection-start-column="11" selection-end-line="2" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter 1/Question1_5/Question.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="11" selection-start-line="2" selection-start-column="11" selection-end-line="2" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter 3/Question3_5/Question.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="18" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter 2/Question2_1/Question.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="18" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter 4/Question4_4/Question.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="18" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
+          <folding>
+            <element signature="e#380#390#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter 5/Question5_3/Question.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="18" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter 20/Question20_2/Question.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-68">
+          <caret line="2" column="18" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter 11/Question11_4/Question.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="18" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter 20/Question20_3/Question.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="28" column="27" selection-start-line="28" selection-start-column="27" selection-end-line="28" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter 19/Question19_6/Question.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="18" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/crack/tech/datastructures/Chap01Q07_MatrixZero.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="7" column="14" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter 20/Question20_12/Question.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="18" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
