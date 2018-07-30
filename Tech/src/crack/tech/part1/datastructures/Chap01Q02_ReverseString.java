@@ -1,8 +1,8 @@
-package crack.tech.datastructures;
+package crack.tech.part1.datastructures;
 
 /**
  * 1.2 Write code to reverse a C-Style String 
- * (C-String means that “abcd” is represented as five characters, including the null character )
+ * (C-String means that ï¿½abcdï¿½ is represented as five characters, including the null character )
  * @author Kenneth
  *
  */

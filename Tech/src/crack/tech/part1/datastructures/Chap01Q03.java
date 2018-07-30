@@ -1,4 +1,4 @@
-package crack.tech.datastructures;
+package crack.tech.part1.datastructures;
 
 /**
  * Design an algorithm and write code to remove the duplicate characters in a string

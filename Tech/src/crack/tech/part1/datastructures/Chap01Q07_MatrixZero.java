@@ -1,4 +1,6 @@
-package crack.tech.datastructures;
+package crack.tech.part1.datastructures;
+
+import crack.tech.common.Util;
 
 /**
  * 1.7 Write an algorithm such that

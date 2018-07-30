@@ -1,4 +1,4 @@
-package crack.tech.datastructures;
+package crack.tech.part1.datastructures;
 
 /**
  * 1.1 

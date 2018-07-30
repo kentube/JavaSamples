@@ -1,7 +1,7 @@
-package crack.tech.datastructures;
+package crack.tech.part1.datastructures;
 
 /**
- * 1.5 Write a method to replace all spaces in a string with ‘%20’
+ * 1.5 Write a method to replace all spaces in a string with ï¿½%20ï¿½
  * @author Kenneth
  *
  */

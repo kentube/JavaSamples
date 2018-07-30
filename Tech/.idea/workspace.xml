@@ -15,26 +15,26 @@
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="Chap01Q07_MatrixZero.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/crack/tech/datastructures/Chap01Q07_MatrixZero.java">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="Chap01Q06_RotateImage.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/crack/tech/part1/datastructures/Chap01Q06_RotateImage.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="7" column="14" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="14" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Question.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Chapter 20/Question20_12/Question.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="18" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
+            <state relative-caret-position="96">
+              <caret line="6" column="18" lean-forward="true" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+        <option value="JUnit4 Test Class" />
+      </list>
+    </option>
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -73,20 +73,36 @@
         <option value="$PROJECT_DIR$/Chapter 2/Question2_1/Question.java" />
         <option value="$PROJECT_DIR$/Chapter 3/Question3_5/Question.java" />
         <option value="$PROJECT_DIR$/Chapter 20/Question20_12/Question.java" />
+        <option value="$PROJECT_DIR$/src/crack/tech/part1/datastructures/Chap09Q00_BubbleSort.java" />
+        <option value="$PROJECT_DIR$/src/crack/tech/part2/algorithm/Chap09Q00_BubbleSort.java" />
+        <option value="$PROJECT_DIR$/src/crack/tech/common/BubbleSort.java" />
+        <option value="$PROJECT_DIR$/src/crack/tech/common/Sort/ISorter.java" />
+        <option value="$PROJECT_DIR$/src/crack/tech/common/Sort/SorterManager.java" />
+        <option value="$PROJECT_DIR$/src/crack/tech/common/Sort/BucketSort.java" />
+        <option value="$PROJECT_DIR$/src/crack/tech/common/Sort/SelectionSort.java" />
+        <option value="$PROJECT_DIR$/src/crack/tech/common/Util.java" />
+        <option value="$PROJECT_DIR$/src/crack/tech/common/Sort/BubbleSort.java" />
+        <option value="$PROJECT_DIR$/src/crack/tech/common/Sort/SortUtil.java" />
+        <option value="$PROJECT_DIR$/src/crack/tech/common/Sort/MergeSortTest.java" />
+        <option value="$PROJECT_DIR$/src/crack/tech/common/Sort/MergeSort.java" />
+        <option value="$PROJECT_DIR$/src/crack/tech/common/Sort/QuickSort.java" />
+        <option value="$PROJECT_DIR$/src/crack/tech/common/Sort/SortManager.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="width" value="524" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="width" value="734" />
     <option name="height" value="738" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
+      <autoscrollFromSource ProjectPane="true" />
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="AndroidView" />
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -97,266 +113,45 @@
             <path>
               <item name="Tech" type="b2602c69:ProjectViewProjectNode" />
               <item name="Tech" type="462c0819:PsiDirectoryNode" />
-              <item name="Chapter 1" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Tech" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Tech" type="462c0819:PsiDirectoryNode" />
-              <item name="Chapter 1" type="462c0819:PsiDirectoryNode" />
-              <item name="Question1_5" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Tech" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Tech" type="462c0819:PsiDirectoryNode" />
-              <item name="Chapter 1" type="462c0819:PsiDirectoryNode" />
-              <item name="Question1_6" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Tech" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Tech" type="462c0819:PsiDirectoryNode" />
-              <item name="Chapter 1" type="462c0819:PsiDirectoryNode" />
-              <item name="Question1_7" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Tech" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Tech" type="462c0819:PsiDirectoryNode" />
-              <item name="Chapter 2" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Tech" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Tech" type="462c0819:PsiDirectoryNode" />
-              <item name="Chapter 2" type="462c0819:PsiDirectoryNode" />
-              <item name="Question2_1" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Tech" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Tech" type="462c0819:PsiDirectoryNode" />
-              <item name="Chapter 2" type="462c0819:PsiDirectoryNode" />
-              <item name="Question2_3" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Tech" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Tech" type="462c0819:PsiDirectoryNode" />
-              <item name="Chapter 2" type="462c0819:PsiDirectoryNode" />
-              <item name="Question2_4" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Tech" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Tech" type="462c0819:PsiDirectoryNode" />
-              <item name="Chapter 2" type="462c0819:PsiDirectoryNode" />
-              <item name="Question2_5" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Tech" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Tech" type="462c0819:PsiDirectoryNode" />
-              <item name="Chapter 3" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Tech" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Tech" type="462c0819:PsiDirectoryNode" />
-              <item name="Chapter 3" type="462c0819:PsiDirectoryNode" />
-              <item name="Question3_2" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Tech" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Tech" type="462c0819:PsiDirectoryNode" />
-              <item name="Chapter 3" type="462c0819:PsiDirectoryNode" />
-              <item name="Question3_5" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Tech" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Tech" type="462c0819:PsiDirectoryNode" />
-              <item name="Chapter 4" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Tech" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Tech" type="462c0819:PsiDirectoryNode" />
-              <item name="Chapter 4" type="462c0819:PsiDirectoryNode" />
-              <item name="Question4_1" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Tech" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Tech" type="462c0819:PsiDirectoryNode" />
-              <item name="Chapter 4" type="462c0819:PsiDirectoryNode" />
-              <item name="Question4_4" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Tech" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Tech" type="462c0819:PsiDirectoryNode" />
-              <item name="Chapter 4" type="462c0819:PsiDirectoryNode" />
-              <item name="Question4_5" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Tech" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Tech" type="462c0819:PsiDirectoryNode" />
-              <item name="Chapter 4" type="462c0819:PsiDirectoryNode" />
-              <item name="Question4_6" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Tech" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Tech" type="462c0819:PsiDirectoryNode" />
-              <item name="Chapter 4" type="462c0819:PsiDirectoryNode" />
-              <item name="Question4_7" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Tech" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Tech" type="462c0819:PsiDirectoryNode" />
-              <item name="Chapter 4" type="462c0819:PsiDirectoryNode" />
-              <item name="Question4_8" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Tech" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Tech" type="462c0819:PsiDirectoryNode" />
-              <item name="Chapter 5" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Tech" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Tech" type="462c0819:PsiDirectoryNode" />
-              <item name="Chapter 5" type="462c0819:PsiDirectoryNode" />
-              <item name="Question5_1" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Tech" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Tech" type="462c0819:PsiDirectoryNode" />
-              <item name="Chapter 5" type="462c0819:PsiDirectoryNode" />
-              <item name="Question5_3" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Tech" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Tech" type="462c0819:PsiDirectoryNode" />
-              <item name="Chapter 5" type="462c0819:PsiDirectoryNode" />
-              <item name="Question5_5" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Tech" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Tech" type="462c0819:PsiDirectoryNode" />
-              <item name="Chapter 5" type="462c0819:PsiDirectoryNode" />
-              <item name="Question5_6" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Tech" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Tech" type="462c0819:PsiDirectoryNode" />
-              <item name="Chapter 8" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Tech" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Tech" type="462c0819:PsiDirectoryNode" />
-              <item name="Chapter 8" type="462c0819:PsiDirectoryNode" />
-              <item name="Question8_2" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Tech" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Tech" type="462c0819:PsiDirectoryNode" />
-              <item name="Chapter 9" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Tech" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Tech" type="462c0819:PsiDirectoryNode" />
-              <item name="Chapter 9" type="462c0819:PsiDirectoryNode" />
-              <item name="Question9_1" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Tech" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Tech" type="462c0819:PsiDirectoryNode" />
-              <item name="Chapter 9" type="462c0819:PsiDirectoryNode" />
-              <item name="Question9_2" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Tech" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Tech" type="462c0819:PsiDirectoryNode" />
-              <item name="Chapter 9" type="462c0819:PsiDirectoryNode" />
-              <item name="Question9_6" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Tech" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Tech" type="462c0819:PsiDirectoryNode" />
-              <item name="Chapter 11" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Tech" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Tech" type="462c0819:PsiDirectoryNode" />
-              <item name="Chapter 11" type="462c0819:PsiDirectoryNode" />
-              <item name="Question11_4" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Tech" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Tech" type="462c0819:PsiDirectoryNode" />
-              <item name="Chapter 19" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Tech" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Tech" type="462c0819:PsiDirectoryNode" />
-              <item name="Chapter 19" type="462c0819:PsiDirectoryNode" />
-              <item name="Question19_2" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Tech" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Tech" type="462c0819:PsiDirectoryNode" />
-              <item name="Chapter 19" type="462c0819:PsiDirectoryNode" />
-              <item name="Question19_6" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Tech" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Tech" type="462c0819:PsiDirectoryNode" />
-              <item name="Chapter 19" type="462c0819:PsiDirectoryNode" />
-              <item name="Question19_8" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Tech" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Tech" type="462c0819:PsiDirectoryNode" />
-              <item name="Chapter 20" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Tech" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Tech" type="462c0819:PsiDirectoryNode" />
-              <item name="Chapter 20" type="462c0819:PsiDirectoryNode" />
-              <item name="Question20_2" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Tech" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Tech" type="462c0819:PsiDirectoryNode" />
-              <item name="Chapter 20" type="462c0819:PsiDirectoryNode" />
-              <item name="Question20_3" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Tech" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Tech" type="462c0819:PsiDirectoryNode" />
-              <item name="Chapter 20" type="462c0819:PsiDirectoryNode" />
-              <item name="Question20_5" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Tech" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Tech" type="462c0819:PsiDirectoryNode" />
-              <item name="Chapter 20" type="462c0819:PsiDirectoryNode" />
-              <item name="Question20_11" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Tech" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Tech" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Tech" type="b2602c69:ProjectViewProjectNode" />
               <item name="Tech" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="tech" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Tech" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Tech" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="tech" type="462c0819:PsiDirectoryNode" />
               <item name="datastructures" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Tech" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="create.test.in.the.same.root" value="true" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/src/crack/tech/common/Sort" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="project.propCompiler" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="crack.tech.common.Sort" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -370,20 +165,88 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
-    <configuration name="Chap01Q07_MatrixZero" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="crack.tech.datastructures.Chap01Q07_MatrixZero" />
+  <component name="RunManager" selected="Application.SortManager">
+    <configuration name="MergeSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="crack.tech.common.Sort.MergeSort" />
       <module name="Java Technical Samples" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="crack.tech.datastructures.*" />
+          <option name="PATTERN" value="crack.tech.common.Sort.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="QuickSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="crack.tech.common.Sort.QuickSort" />
+      <module name="Java Technical Samples" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="crack.tech.common.Sort.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="SortManager" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="crack.tech.common.Sort.SortManager" />
+      <module name="Java Technical Samples" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="crack.tech.common.Sort.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="Chap01Q06_RotateImageTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Java Technical Samples" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="crack.tech.part1.datastructures.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="crack.tech.part1.datastructures" />
+      <option name="MAIN_CLASS_NAME" value="crack.tech.part1.datastructures.Chap01Q06_RotateImageTest" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="MergeSortTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Java Technical Samples" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="crack.tech.common.Sort.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="crack.tech.common.Sort" />
+      <option name="MAIN_CLASS_NAME" value="crack.tech.common.Sort.MergeSortTest" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
@@ -423,9 +286,20 @@
       <properties />
       <listeners />
     </configuration>
+    <list>
+      <item itemvalue="Application.SortManager" />
+      <item itemvalue="Application.MergeSort" />
+      <item itemvalue="JUnit.MergeSortTest" />
+      <item itemvalue="JUnit.Chap01Q06_RotateImageTest" />
+      <item itemvalue="Application.QuickSort" />
+    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Chap01Q07_MatrixZero" />
+        <item itemvalue="Application.SortManager" />
+        <item itemvalue="Application.QuickSort" />
+        <item itemvalue="Application.MergeSort" />
+        <item itemvalue="JUnit.MergeSortTest" />
+        <item itemvalue="JUnit.Chap01Q06_RotateImageTest" />
       </list>
     </recent_temporary>
   </component>
@@ -439,34 +313,44 @@
     </task>
     <servers />
   </component>
+  <component name="TestHistory">
+    <history-entry file="MergeSortTest - 2018.07.29 at 10h 56m 40s.xml">
+      <configuration name="MergeSortTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Chap01Q06_RotateImageTest - 2018.07.29 at 10h 59m 00s.xml">
+      <configuration name="Chap01Q06_RotateImageTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MergeSortTest - 2018.07.29 at 15h 09m 50s.xml">
+      <configuration name="MergeSortTest" configurationId="JUnit" />
+    </history-entry>
+  </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info active="true" anchor="bottom" id="Messages" visible="true" weight="0.3286385" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info id="Image Layers" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="right" id="Maven Projects" />
-      <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info id="Capture Tool" />
-      <window_info id="Designer" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24963397" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.3286385" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info id="Image Layers" order="2" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="right" id="Maven Projects" order="3" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.34115806" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Designer" order="2" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21083455" />
+      <window_info anchor="bottom" id="Find" order="1" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info id="UI Designer" />
-      <window_info anchor="right" id="Theme Preview" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info id="UI Designer" order="2" />
+      <window_info anchor="right" id="Theme Preview" order="3" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.43661973" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
     </layout>
@@ -474,7 +358,43 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="2" />
+    </breakpoint-manager>
+  </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/crack/tech/common/Sort/BucketSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="8" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/crack/tech/common/Sort/SortManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="20" column="61" selection-start-line="20" selection-start-column="61" selection-end-line="20" selection-end-column="61" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/crack/tech/common/Util.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/crack/tech/common/Sort/MergeSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="50" selection-start-line="9" selection-start-column="50" selection-end-line="9" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Chapter 1/Question1_7/Question.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
@@ -570,9 +490,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
           <caret line="10" column="21" lean-forward="true" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -671,9 +588,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" column="18" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
-          <folding>
-            <element signature="e#380#390#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -712,17 +626,123 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/crack/tech/datastructures/Chap01Q07_MatrixZero.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="7" column="14" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Chapter 20/Question20_12/Question.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" column="18" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/crack/tech/part1/datastructures/Chap01Q07_MatrixZero.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="30" selection-start-line="30" selection-end-line="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/crack/tech/common/Util.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/crack/tech/common/Sort/BubbleSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-7">
+          <caret line="44" selection-start-line="44" selection-end-line="44" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#459#460#0" expanded="true" />
+            <element signature="e#502#503#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/crack/tech/common/Sort/SelectionSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="47" column="5" selection-start-line="37" selection-end-line="47" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/crack/tech/part1/datastructures/Chap01Q06_RotateImageTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="714">
+          <caret line="42" column="44" selection-start-line="42" selection-start-column="44" selection-end-line="42" selection-end-column="44" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/crack/tech/common/Sort/MergeSortTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/crack/tech/common/Sort/SortUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="27" selection-start-line="4" selection-start-column="23" selection-end-line="4" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/crack/tech/common/Sort/ISorter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="8" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/crack/tech/common/Sort/MergeSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-7">
+          <caret line="54" column="19" selection-start-line="54" selection-start-column="19" selection-end-line="54" selection-end-column="19" />
+          <folding>
+            <element signature="e#618#619#0" expanded="true" />
+            <element signature="e#678#679#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/crack/tech/common/Sort/SortManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-144">
+          <caret line="12" column="56" selection-start-line="12" selection-start-column="56" selection-end-line="12" selection-end-column="56" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/crack/tech/common/Sort/BucketSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="6" column="8" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/crack/tech/common/Sort/QuickSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="17" column="13" lean-forward="true" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+          <folding>
+            <element signature="e#645#646#0" expanded="true" />
+            <element signature="e#705#706#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/crack/tech/part1/datastructures/Chap01Q06_RotateImage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="6" column="18" lean-forward="true" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
         </state>
       </provider>
     </entry>
@@ -743,7 +763,7 @@
       </state>
       <state key="FacetStructureConfigurable.UI">
         <settings>
-          <last-edited />
+          <last-edited>No facets are configured</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -778,7 +798,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited />
+          <last-edited>Java Technical Samples</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
